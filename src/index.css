@@ -1,7 +1,14 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 * {
-  scroll-behavior: smooth;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Playpen Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  text-decoration: none;
+}
+
+body {
+  overflow-x: hidden;
 }

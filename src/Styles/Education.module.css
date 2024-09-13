@@ -1,0 +1,97 @@
+.educationSection {
+  background: linear-gradient(135deg, #ffffff, #e7ebec);
+  padding: 60px 100px 60px 100px;
+  box-sizing: border-box;
+}
+
+.educationSection h1 {
+  text-align: left;
+  font-weight: 700;
+  color: black;
+}
+
+.educationContent {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 110px;
+  margin-top: 30px;
+}
+
+.child {
+  max-width: 50%;
+  background-color: white;
+  padding: 40px 70px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+.child h4 {
+  color: #6a0dad;
+}
+
+.child h6 {
+  margin-top: 3px;
+}
+
+@media (max-width: 1441px) {
+
+  .educationSection {
+      padding: 60px;
+    }
+
+  .educationContent {
+    gap: 90px;
+  }
+
+  .child {
+    flex: 1;
+    padding: 40px;
+  }
+}
+
+@media (max-width: 1025px) {
+  .educationSection {
+    padding: 30px;
+    max-width: 100%;
+  }
+
+  .educationContent {
+    gap: 20px;
+  }
+
+  .child {
+    flex: 1;
+    padding: 20px 40px;
+  }
+}
+
+@media (max-width: 769px) {
+  .educationSection {
+    padding: 40px;
+  }
+
+  .educationContent {
+    gap: 20px;
+  }
+
+  .child {
+    flex: 1;
+    padding: 20px 20px;
+  }
+}
+
+@media (max-width: 426px) {
+  .educationSection {
+    padding: 40px 20px;
+  }
+
+  .educationContent {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+  .child {
+    max-width: 100%;
+    padding: 20px 20px;
+  }
+}

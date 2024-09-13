@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "title": "Resume Maker App",
+      "description": "Utilized React's state management to handle CRUD operations for resumes. Users can create new resumes, edit, update, and delete resumes.",
+      "image": "../project/resumeapp.png",
+      "github": "https://github.com/Ajay9926/Resume_App",
+      "liveDemo": "https://resume-app-brown.vercel.app/"
+    },
+    {
+      "title": "Personal Portfolio",
+      "description": "Ensured the portfolio is fully responsive and adapts to various screen sizes, providing an optimal experience on both desktop and mobile devices.",
+      "image": "../project/portfolio.png",
+      "github": "https://github.com/Ajay9926/My_Portfolio",
+      "liveDemo": "https://my-portfolio-lyart-tau.vercel.app/"
+    },
+    {
+      "title": "Image Searching",
+      "description": "Enabled users to search for images by entering keywords. Integrated with an image search API to retrieve and display relevant results.",
+      "image": "../project/imageapp.png",
+      "github": "https://github.com/Ajay9926/Image_Searching_App",
+      "liveDemo": "https://image-searching-app-ten.vercel.app/"
+    },
+    {
+      "title": "Netflix Clone",
+      "description": "A fully responsive Netflix clone that replicates the user interface and basic functionalities of the popular streaming service. The project was built using React.js.",
+      "image": "../project/netflix.png",
+      "github": "https://github.com/Ajay9926/Netflix-Clone",
+      "liveDemo": "https://netflix-clone-teal-eight.vercel.app/"
+    }
+  ]
+}

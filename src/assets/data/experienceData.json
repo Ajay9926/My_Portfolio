@@ -1,0 +1,22 @@
+{
+  "experience": [
+    {
+      "company": "FxBytes Technologies",
+      "role": "Mern Stack Developer, Intern",
+      "duration": "Apr/2024 - Present",
+      "logo": "https://fxbytes.com/assets/images/logo.svg"
+    },
+    {
+      "company": "SG Gurukul",
+      "role": "Wordpress Developer, Full-time",
+      "duration": "Mar/2023 - Feb/2024",
+      "logo": "https://www.sggurukul.com/wp-content/uploads/2020/01/cropped-sg-logo1.png"
+    },
+    {
+      "company": "Blueslag Technologies",
+      "role": "Web Developer Intern",
+      "duration": "Aug/2022 - Nov/2022",
+      "logo": "https://blueslag.com/wp-content/uploads/2022/05/cropped-cropped-Bluslag-Orignal-black.png"
+    }
+  ]
+}
