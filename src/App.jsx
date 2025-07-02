@@ -1,21 +1,28 @@
-import About from "./Components/About/About";
-import Experience from "./Components/Experience/Experience";
-import Footer from "./Components/Footer/Footer";
-import Home from "./Components/Home/Home";
-import Navbar from "./Components/Navbar/Navbar";
-import Projects from "./Components/Projects/Projects";
+import React from 'react'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import AboutMe from './Pages/AboutMe';
+import Header from './Components/Header/Index'
+import Education from './Pages/Education';
+import Experience from './Pages/Experience';
+import Skills from './Pages/Skills';
+import Projects from './Pages/Projects';
+import Contact from './Pages/Contact';
+import Footer from './Components/Footer/Index'
 
-function App() {
+const App = () => {
   return (
-    <div className="bg-[#171d32] h-auto w-full overflow-hidden">
-      <Navbar />
-      <Home />
-      <About />
+    <Router>
+      <Header />
+      <AboutMe />
+      <Education />
       <Experience />
+      <Skills />
       <Projects />
+      <Contact />
       <Footer />
-    </div>
-  );
+    </Router>
+  )
 }
 
-export default App;
+export default App
