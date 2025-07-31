@@ -1,16 +1,16 @@
 {
   "experience": [
     {
-      "company": "FxBytes Technologies",
-      "role": "Mern Stack Developer, Full-time",
+      "company": "FXBytes Technologies",
+      "role": "Junior Web Developer, Full-time",
       "duration": "May/2024 - Present",
-      "logo": "https://fxbytes.com/assets/images/logo.svg"
+      "logo": "/company/fxbytes.svg"
     },
     {
       "company": "SG Gurukul",
-      "role": "Wordpress Developer, Full-time",
+      "role": "Web Developer, Full-time",
       "duration": "Jan/2023 - Jan/2024",
-      "logo": "https://www.sggurukul.com/wp-content/uploads/2020/01/cropped-sg-logo1.png"
+      "logo": "/company/sggurukul.jpeg"
     }
   ]
 }
