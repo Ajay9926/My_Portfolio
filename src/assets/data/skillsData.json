@@ -1,20 +1,8 @@
 {
   "skills": [
     {
-      "name": "MongoDB",
-      "src": "/technology/mongo.png"
-    },
-    {
-      "name": "Express.js",
-      "src": "/technology/express.png"
-    },
-    {
       "name": "React.js",
       "src": "/technology/react.png"
-    },
-    {
-      "name": "Node.js",
-      "src": "/technology/node.png"
     },
     {
       "name": "Next.js",
@@ -37,24 +25,12 @@
       "src": "/technology/javascript.png"
     },
     {
-      "name": "API Testing",
-      "src": "/technology/api.png"
-    },
-    {
       "name": "Git",
       "src": "/technology/git.png"
     },
     {
       "name": "GitHub",
       "src": "/technology/github.png"
-    },
-    {
-      "name": "Postman",
-      "src": "/technology/postman.png"
-    },
-    {
-      "name": "Mongoose",
-      "src": "/technology/mongoose.png"
     },
     {
       "name": "Jira",
