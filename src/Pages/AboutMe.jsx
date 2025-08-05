@@ -10,7 +10,7 @@ const AboutMe = () => {
         <h1>Hello! I Am</h1>
         <h2>Ajay Raj Varala</h2>
         <p>
-          I am a passionate MERN Stack Developer with hands-on experience in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in creating dynamic, responsive, and scalable web solutions, and I have a strong foundation in both front-end and back-end technologies. With a focus on user experience and performance, I continuously seek to enhance my skills and deliver high-quality projects. I thrive in collaborative environments and enjoy solving complex problems through code.
+          Passionate Frontend Developer with over 2+ years of hands-on experience crafting responsive, user-friendly web applications using HTML, CSS, JavaScript, React.js, Next.js, Material-UI, Bootstrap, and Tailwind CSS. I focus on writing clean, efficient, and maintainable code while ensuring seamless UI/UX experiences. I thrive in fast-paced, collaborative environments and have a keen eye for design detail. I enjoy transforming ideas into interactive digital solutions and constantly seek to improve performance, accessibility, and cross-browser compatibility.
         </p>
         <a className={style.button} href={Resume} download>Download Resume</a>
       </div>
